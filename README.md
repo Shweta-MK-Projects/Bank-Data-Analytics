@@ -1,6 +1,21 @@
 # Bank-Data-Analytics
 📊 Bank Data Analytics | SQL, Power BI
 
+# Project Folder Structure
+bank-data-analytics/
+│
+├── README.md
+├── dataset/
+│   └── bank_transactions.csv
+│
+├── sql/
+│   └── bank_analysis.sql
+│
+├── dashboard/
+│   └── bank_dashboard.pbix
+│
+├── images/
+│   └── dashboard.png
 # 📖 Overview
 This project focuses on analyzing large-scale banking transaction data (credit and debit) to extract meaningful insights, monitor financial activity, and detect anomalous patterns.
 Using SQL for data transformation and Power BI for visualization, the project delivers an end-to-end analytics workflow for data-driven decision-making.
