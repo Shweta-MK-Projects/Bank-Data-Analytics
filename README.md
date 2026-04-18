@@ -2,31 +2,53 @@
 📊 Bank Data Analytics | SQL, Power BI
 
 # 📖 Overview
-
-This project analyzes large-scale bank transaction data to monitor financial activity, detect anomalies, and uncover customer spending patterns using SQL and Power BI.
+This project focuses on analyzing large-scale banking transaction data (credit and debit) to extract meaningful insights, monitor financial activity, and detect anomalous patterns.
+Using SQL for data transformation and Power BI for visualization, the project delivers an end-to-end analytics workflow for data-driven decision-making.
 
 # ❗ Business Problem
 
-Banks struggle to:
-
-Monitor high-volume transactions
-Detect fraudulent activities
+Financial institutions deal with massive volumes of transaction data, making it difficult to:
+Monitor real-time financial activity
+Detect unusual or fraudulent transactions
 Understand customer spending behavior
+Generate efficient and accurate reports
 
-This project provides a data-driven solution to improve financial insights and decision-making.
+This project addresses these challenges by transforming raw transactional data into actionable insights.
+
+# 🎯 Objectives
+Improve data processing efficiency
+Identify transaction trends and anomalies
+Build interactive dashboards for monitoring KPIs
+Enable faster and more accurate decision-making
 
 # 🛠 Tools & Technologies
-SQL
-Power BI
-Power Query
+SQL – Data extraction, transformation, and analysis
+Power BI – Dashboard development and visualization
+Power Query – Data cleaning and preprocessing
+
 
 # 📂 Dataset
-Bank transaction dataset (credit & debit data)
+Bank transaction dataset containing:
+Transaction ID
+Date & Time
+Transaction Type (Credit/Debit)
+Amount
+Customer/Account details
 
-# 🧹 Data Processing
-Cleaned and transformed raw data using Power Query
-Optimized queries for faster performance
-Created calculated fields for analysis
+# 🧹 Data Cleaning & Preparation
+Removed null and duplicate records to ensure data quality
+Standardized date and transaction formats
+Created derived columns (month, transaction category, etc.)
+Performed data transformation using Power Query
+Optimized SQL queries for improved performance
+
+# 📊 Key KPIs
+Total Transactions
+Total Credit & Debit Amount
+Transaction Volume Over Time
+Average Transaction Value
+Frequency of Transactions
+Anomaly Indicators
 
 # 📊 Key Features
 Improved transaction processing efficiency by 50%
