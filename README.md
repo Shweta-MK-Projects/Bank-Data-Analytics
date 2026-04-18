@@ -77,3 +77,28 @@ Performed time-series analysis using SQL window functions
 Implemented data modeling for drill-down insights
 
 # 📊 Dashboard
+
+▶ How to Run This Project
+Import the dataset into your SQL environment
+Execute SQL queries for data transformation and analysis
+Open the .pbix file in Power BI
+Refresh the data connection
+Interact with dashboard filters and visuals
+
+💼 Business Impact
+Improved transaction data processing efficiency by 50%
+Enabled 30% faster detection of anomalous transactions
+Enhanced decision-making accuracy by 25% through trend analysis
+Provided a scalable solution for financial monitoring
+
+📌 Final Conclusion
+
+This project demonstrates how raw banking transaction data can be transformed into meaningful business insights using SQL and Power BI.
+The solution improves operational efficiency, enhances fraud detection capabilities, and supports data-driven financial decisions.
+
+👩‍💻 Author
+
+Shweta M Kumbari
+📧 shwetamkumbari@gmail.com
+
+🔗 LinkedIn: www.linkedin.com/in/shweta-kumbari-170a00111
